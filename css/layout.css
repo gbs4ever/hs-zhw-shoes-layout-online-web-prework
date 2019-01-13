@@ -20,8 +20,27 @@
 
 .clear {
   clear: both;
+ 
 }
 
 /* Posititoning Classes */
+
+
+  .colleft {
+    float: left;
+    width: 55%;
+  margin:2%;}
+
+    .colright {
+     float:right;
+    width: 36%;
+  margin: 2%;
+  }
+
+  .column {
+    float: left;
+    width: 31%;
+    margin: 1%;
+  }
 
 
